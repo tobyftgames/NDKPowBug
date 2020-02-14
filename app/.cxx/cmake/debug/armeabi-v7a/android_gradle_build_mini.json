@@ -1,0 +1,19 @@
+{
+  "buildFiles": [
+    "C:\\NVPACK\\android-sdk-windows\\ndk\\21.0.6113669\\build\\cmake\\android.toolchain.cmake",
+    "C:\\work\\HelloGL2\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "C:\\NVPACK\\android-sdk-windows\\ndk\\21.0.6113669\\build\\cmake\\platforms.cmake"
+  ],
+  "cleanCommands": [
+    "C:\\NVPACK\\android-sdk-windows\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\work\\HelloGL2\\app\\.cxx\\cmake\\debug\\armeabi-v7a\" clean"
+  ],
+  "buildTargetsCommand": "C:\\NVPACK\\android-sdk-windows\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\work\\HelloGL2\\app\\.cxx\\cmake\\debug\\armeabi-v7a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "gl2jni-Release-armeabi-v7a": {
+      "artifactName": "gl2jni",
+      "buildCommand": "C:\\NVPACK\\android-sdk-windows\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\work\\HelloGL2\\app\\.cxx\\cmake\\debug\\armeabi-v7a\" gl2jni",
+      "abi": "armeabi-v7a",
+      "output": "C:\\work\\HelloGL2\\app\\build\\intermediates\\cmake\\debug\\obj\\armeabi-v7a\\libgl2jni.so"
+    }
+  }
+}

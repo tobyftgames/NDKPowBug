@@ -1,0 +1,7 @@
+# ninja log v5
+0	236	603397793	CMakeFiles/gl2jni.dir/gl_code.cpp.o	1db5d9b96ebd8b6b
+237	327	603397793	C:/work/HelloGL2/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libgl2jni.so	bb8e01c6bc48ebbf
+2	171	603397855	CMakeFiles/gl2jni.dir/gl_code.cpp.o	1db5d9b96ebd8b6b
+172	252	603397856	C:/work/HelloGL2/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libgl2jni.so	bb8e01c6bc48ebbf
+2	171	603398032	CMakeFiles/gl2jni.dir/gl_code.cpp.o	1db5d9b96ebd8b6b
+171	257	603398032	C:/work/HelloGL2/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libgl2jni.so	bb8e01c6bc48ebbf
